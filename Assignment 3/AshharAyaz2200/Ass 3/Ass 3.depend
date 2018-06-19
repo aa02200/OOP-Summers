@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1529441649 source:f:\university\summers\oop\assignment\ass 3\ashharayaz2200\ass 3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
